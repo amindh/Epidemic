@@ -1,2 +1,2 @@
 # Epidemic
-Simulator of an epidemic spreading through population
+Simulator of an epidemic spreading through population in Matlab
